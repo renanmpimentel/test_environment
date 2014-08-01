@@ -10,7 +10,10 @@ Ambiente de teste
 
 3 - Instale o VirtualBox https://www.virtualbox.org/wiki/Downloads (versão 4.3.12)
 
-4 - Na pasta digite o comando: vagrant up
+4 - Na pasta digite os comandos: 
+git submodule init
+git submodule update
+vagrant up
 
 5 - Seja feliz!
 
